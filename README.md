@@ -8,6 +8,4 @@ Big project. Jupyter notebook showing how to calculate Lyapunov exponents. In th
 
 
 ## Perl
-Small project. This is a simple perl program which reads on a Linux machine from the file /proc/stat the current cpu usage and prints it to the console.
-
-Usage: perl cpu.pl
+Small project. This is a simple perl program which reads on a Linux machine from the file /proc/stat the current cpu usage and prints it to the console. It can be run by simply typing `perl cpu.pl`.
